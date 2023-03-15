@@ -18,4 +18,16 @@
 <img align="left" alt="Visual Studio" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"/>
 <img align="left" alt="SQLServer" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"/>
 <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
+<br/>
 
+## 👷 Projects 
+
+#### Klotterplanket
+A React Application where you can post and read messages. Backend created using Entity Framework and MySQL.  
+Demo: https://klotterplanket.netlify.app/  
+Repo: https://github.com/ViggoValfridsson/KlotterplanketFrontend
+
+#### IMDB-Clone
+An IMDB-clone created using React and The Movie Databases API  
+Demo: https://viggo-movie-database.netlify.app/  
+Repo: https://github.com/ViggoValfridsson/JavaScript-Backend-IMDB-APP
