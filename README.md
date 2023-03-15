@@ -1,4 +1,4 @@
-# ViggoValfridsson
+# Viggo Valfridsson
 
 **`Currently studying Web/.NET development at EC Utbildning`**
 
