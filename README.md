@@ -22,11 +22,6 @@
 
 ## 👷 Projects 
 
-#### Klotterplanket
-A React Application where you can post and read messages. Backend created using Entity Framework and MySQL.  
-Demo: https://klotterplanket.netlify.app/  
-Repo: https://github.com/ViggoValfridsson/KlotterplanketFrontend
-
 #### IMDB-Clone
 An IMDB-clone created using React and The Movie Databases API  
 Demo: https://viggo-movie-database.netlify.app/  
