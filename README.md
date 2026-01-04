@@ -13,5 +13,5 @@
 1. **Heartwork** · Carcass
 2. **Trap Queen** · Fetty Wap
 3. **BLUE LAGOON** · Masayoshi Takanaka
-4. **Put On** · Jeezy, Kanye West
-5. **OH! TENGO SUERTE** · Masayoshi Takanaka
+4. **OH! TENGO SUERTE** · Masayoshi Takanaka
+5. **Put On** · Jeezy, Kanye West
