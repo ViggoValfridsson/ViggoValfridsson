@@ -5,13 +5,13 @@
 ## Top Artists
 1. **Masayoshi Takanaka**
 2. **Dying Fetus**
-3. **Kanye West**
-4. **Suffocation**
+3. **Suffocation**
+4. **Kanye West**
 5. **Death**
 
 ## Top Tracks
 1. **Trap Queen** · Fetty Wap
-2. **Crown of Horns** · Cryptopsy
-3. **Praise the Lord (Opium of the Masses)** · Dying Fetus
-4. **Like a Rolling Stone** · Bob Dylan
-5. **Poppin' My Collar (feat. Project Pat)** · Three 6 Mafia, Project Pat
+2. **Poppin' My Collar (feat. Project Pat)** · Three 6 Mafia, Project Pat
+3. **Crown of Horns** · Cryptopsy
+4. **Praise the Lord (Opium of the Masses)** · Dying Fetus
+5. **Stay Fly** · Three 6 Mafia
