@@ -13,7 +13,7 @@
 1. **Trap Queen** · Fetty Wap
 2. **Poppin' My Collar (feat. Project Pat)** · Three 6 Mafia, Project Pat
 3. **Crown of Horns** · Cryptopsy
-4. **Praise the Lord (Opium of the Masses)** · Dying Fetus
-5. **Stay Fly** · Three 6 Mafia
+4. **The Good, The Bad And The Ugly - 2004 Remaster** · Ennio Morricone
+5. **Praise the Lord (Opium of the Masses)** · Dying Fetus
 
-*Data last updated at 2026-01-10 20:46:13*
+*Data last updated at 2026-01-13 19:37:07*
