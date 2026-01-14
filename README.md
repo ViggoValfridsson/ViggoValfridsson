@@ -7,13 +7,13 @@
 2. **Dying Fetus**
 3. **Suffocation**
 4. **Kanye West**
-5. **Death**
+5. **Cryptopsy**
 
 ## Top Tracks
 1. **Trap Queen** · Fetty Wap
 2. **Poppin' My Collar (feat. Project Pat)** · Three 6 Mafia, Project Pat
-3. **Crown of Horns** · Cryptopsy
-4. **The Good, The Bad And The Ugly - 2004 Remaster** · Ennio Morricone
-5. **Praise the Lord (Opium of the Masses)** · Dying Fetus
+3. **The Good, The Bad And The Ugly - 2004 Remaster** · Ennio Morricone
+4. **Praise the Lord (Opium of the Masses)** · Dying Fetus
+5. **Crown of Horns** · Cryptopsy
 
-*Data last updated at 2026-01-14 00:00:03*
+*Data last updated at 2026-01-14 01:00:02*
