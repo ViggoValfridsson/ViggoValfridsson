@@ -10,10 +10,10 @@
 5. **Cryptopsy**
 
 ## Top Tracks
-1. **Trap Queen** · Fetty Wap
+1. **Holy, Holy** · Geordie Greep
 2. **Poppin' My Collar (feat. Project Pat)** · Three 6 Mafia, Project Pat
 3. **The Good, The Bad And The Ugly - 2004 Remaster** · Ennio Morricone
-4. **Praise the Lord (Opium of the Masses)** · Dying Fetus
-5. **Crown of Horns** · Cryptopsy
+4. **Blues** · Geordie Greep
+5. **Praise the Lord (Opium of the Masses)** · Dying Fetus
 
-*Data last updated at 2026-01-15 00:00:02*
+*Data last updated at 2026-01-16 00:00:02*
