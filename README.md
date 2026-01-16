@@ -5,8 +5,8 @@
 ## Top Artists
 1. **Masayoshi Takanaka**
 2. **Dying Fetus**
-3. **Suffocation**
-4. **Kanye West**
+3. **Kanye West**
+4. **Three 6 Mafia**
 5. **Cryptopsy**
 
 ## Top Tracks
@@ -16,4 +16,4 @@
 4. **Blues** · Geordie Greep
 5. **Praise the Lord (Opium of the Masses)** · Dying Fetus
 
-*Data last updated at 2026-01-16 00:00:02*
+*Data last updated at 2026-01-17 00:00:02*
