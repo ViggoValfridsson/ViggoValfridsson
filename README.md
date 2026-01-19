@@ -6,14 +6,14 @@
 1. **Masayoshi Takanaka**
 2. **Dying Fetus**
 3. **Kanye West**
-4. **Three 6 Mafia**
-5. **Cryptopsy**
+4. **Cryptopsy**
+5. **Suffocation**
 
 ## Top Tracks
 1. **Holy, Holy** · Geordie Greep
-2. **Poppin' My Collar (feat. Project Pat)** · Three 6 Mafia, Project Pat
-3. **The Good, The Bad And The Ugly - 2004 Remaster** · Ennio Morricone
+2. **Praise the Lord (Opium of the Masses)** · Dying Fetus
+3. **Poppin' My Collar (feat. Project Pat)** · Three 6 Mafia, Project Pat
 4. **Hammer Smashed Face** · Cannibal Corpse
-5. **Blues** · Geordie Greep
+5. **The Good, The Bad And The Ugly - 2004 Remaster** · Ennio Morricone
 
-*Data last updated at 2026-01-19 00:00:02*
+*Data last updated at 2026-01-20 00:00:02*
