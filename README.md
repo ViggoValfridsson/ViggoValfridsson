@@ -13,7 +13,7 @@
 1. **Holy, Holy** · Geordie Greep
 2. **Hammer Smashed Face** · Cannibal Corpse
 3. **Praise the Lord (Opium of the Masses)** · Dying Fetus
-4. **Poppin' My Collar (feat. Project Pat)** · Three 6 Mafia, Project Pat
+4. **Blues** · Geordie Greep
 5. **The Good, The Bad And The Ugly - 2004 Remaster** · Ennio Morricone
 
-*Data last updated at 2026-01-22 00:00:02*
+*Data last updated at 2026-01-23 00:00:02*
