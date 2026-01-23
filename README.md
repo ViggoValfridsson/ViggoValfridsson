@@ -5,15 +5,15 @@
 ## Top Artists
 1. **Dying Fetus**
 2. **Masayoshi Takanaka**
-3. **Kanye West**
-4. **Cannibal Corpse**
-5. **Cryptopsy**
+3. **Mortician**
+4. **Kanye West**
+5. **Cannibal Corpse**
 
 ## Top Tracks
-1. **Holy, Holy** · Geordie Greep
-2. **Hammer Smashed Face** · Cannibal Corpse
-3. **Praise the Lord (Opium of the Masses)** · Dying Fetus
-4. **Blues** · Geordie Greep
-5. **The Good, The Bad And The Ugly - 2004 Remaster** · Ennio Morricone
+1. **Zombie Apocalypse** · Mortician
+2. **Holy, Holy** · Geordie Greep
+3. **Hammer Smashed Face** · Cannibal Corpse
+4. **Chainsaw Dismemberment** · Mortician
+5. **Blues** · Geordie Greep
 
-*Data last updated at 2026-01-23 00:00:02*
+*Data last updated at 2026-01-24 00:00:02*
