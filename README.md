@@ -6,8 +6,8 @@
 1. **Dying Fetus**
 2. **Mortician**
 3. **Masayoshi Takanaka**
-4. **Kanye West**
-5. **Cannibal Corpse**
+4. **Suffocation**
+5. **Kanye West**
 
 ## Top Tracks
 1. **Zombie Apocalypse** · Mortician
@@ -16,4 +16,4 @@
 4. **Chainsaw Dismemberment** · Mortician
 5. **Blues** · Geordie Greep
 
-*Data last updated at 2026-01-25 00:00:02*
+*Data last updated at 2026-01-26 00:00:02*
