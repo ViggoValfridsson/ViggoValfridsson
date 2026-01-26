@@ -12,8 +12,8 @@
 ## Top Tracks
 1. **Zombie Apocalypse** · Mortician
 2. **Holy, Holy** · Geordie Greep
-3. **Hammer Smashed Face** · Cannibal Corpse
-4. **Chainsaw Dismemberment** · Mortician
+3. **Chainsaw Dismemberment** · Mortician
+4. **Hammer Smashed Face** · Cannibal Corpse
 5. **Blues** · Geordie Greep
 
-*Data last updated at 2026-01-26 00:00:02*
+*Data last updated at 2026-01-27 00:00:02*
