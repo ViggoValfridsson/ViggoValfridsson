@@ -14,6 +14,6 @@
 2. **Zombie Apocalypse** · Mortician
 3. **Chainsaw Dismemberment** · Mortician
 4. **Hammer Smashed Face** · Cannibal Corpse
-5. **The Good, The Bad And The Ugly - 2004 Remaster** · Ennio Morricone
+5. **Blues** · Geordie Greep
 
-*Data last updated at 2026-01-28 00:00:02*
+*Data last updated at 2026-01-29 00:00:02*
