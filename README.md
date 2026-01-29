@@ -10,10 +10,10 @@
 5. **Cannibal Corpse**
 
 ## Top Tracks
-1. **Holy, Holy** · Geordie Greep
-2. **Zombie Apocalypse** · Mortician
+1. **Zombie Apocalypse** · Mortician
+2. **Holy, Holy** · Geordie Greep
 3. **Chainsaw Dismemberment** · Mortician
 4. **Hammer Smashed Face** · Cannibal Corpse
 5. **Blues** · Geordie Greep
 
-*Data last updated at 2026-01-29 00:00:02*
+*Data last updated at 2026-01-30 00:00:02*
