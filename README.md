@@ -4,8 +4,8 @@
 
 ## Top Artists
 1. **Mortician**
-2. **Dying Fetus**
-3. **Masayoshi Takanaka**
+2. **Masayoshi Takanaka**
+3. **Dying Fetus**
 4. **Suffocation**
 5. **Cannibal Corpse**
 
@@ -16,4 +16,4 @@
 4. **Hammer Smashed Face** · Cannibal Corpse
 5. **Blues** · Geordie Greep
 
-*Data last updated at 2026-01-31 00:00:02*
+*Data last updated at 2026-02-01 00:00:02*
