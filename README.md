@@ -6,8 +6,8 @@
 1. **Mortician**
 2. **Masayoshi Takanaka**
 3. **Dying Fetus**
-4. **Suffocation**
-5. **Cannibal Corpse**
+4. **Three 6 Mafia**
+5. **Suffocation**
 
 ## Top Tracks
 1. **Zombie Apocalypse** · Mortician
@@ -16,4 +16,4 @@
 4. **The Good, The Bad And The Ugly - 2004 Remaster** · Ennio Morricone
 5. **Hammer Smashed Face** · Cannibal Corpse
 
-*Data last updated at 2026-02-02 00:00:02*
+*Data last updated at 2026-02-03 00:00:02*
