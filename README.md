@@ -5,9 +5,9 @@
 ## Top Artists
 1. **Mortician**
 2. **Masayoshi Takanaka**
-3. **Three 6 Mafia**
-4. **Cannibal Corpse**
-5. **Dying Fetus**
+3. **Cannibal Corpse**
+4. **Dying Fetus**
+5. **EsDeeKid**
 
 ## Top Tracks
 1. **Zombie Apocalypse** · Mortician
@@ -16,4 +16,4 @@
 4. **The Good, The Bad And The Ugly - 2004 Remaster** · Ennio Morricone
 5. **Drowned in Your Blood** · Mortician
 
-*Data last updated at 2026-02-07 00:00:02*
+*Data last updated at 2026-02-08 00:00:02*
