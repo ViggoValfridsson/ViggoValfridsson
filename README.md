@@ -6,14 +6,14 @@
 1. **Mortician**
 2. **Masayoshi Takanaka**
 3. **Cannibal Corpse**
-4. **Dying Fetus**
-5. **EsDeeKid**
+4. **EsDeeKid**
+5. **Three 6 Mafia**
 
 ## Top Tracks
 1. **Zombie Apocalypse** · Mortician
 2. **Holy, Holy** · Geordie Greep
 3. **Chainsaw Dismemberment** · Mortician
 4. **Drowned in Your Blood** · Mortician
-5. **The Good, The Bad And The Ugly - 2004 Remaster** · Ennio Morricone
+5. **REPULSIVE IN ITS SPLENDID BEAUTY** · Crowbar
 
-*Data last updated at 2026-02-09 00:00:02*
+*Data last updated at 2026-02-10 00:00:02*
