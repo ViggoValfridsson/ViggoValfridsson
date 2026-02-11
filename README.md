@@ -11,9 +11,9 @@
 
 ## Top Tracks
 1. **Zombie Apocalypse** · Mortician
-2. **Holy, Holy** · Geordie Greep
+2. **Fly-day Chinatown** · Yasuha
 3. **Chainsaw Dismemberment** · Mortician
 4. **Drowned in Your Blood** · Mortician
-5. **REPULSIVE IN ITS SPLENDID BEAUTY** · Crowbar
+5. **Holy, Holy** · Geordie Greep
 
-*Data last updated at 2026-02-11 00:00:02*
+*Data last updated at 2026-02-12 00:00:02*
