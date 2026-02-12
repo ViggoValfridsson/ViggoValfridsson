@@ -5,15 +5,15 @@
 ## Top Artists
 1. **Mortician**
 2. **Masayoshi Takanaka**
-3. **Cannibal Corpse**
-4. **EsDeeKid**
-5. **Three 6 Mafia**
+3. **CASIOPEA**
+4. **Cannibal Corpse**
+5. **EsDeeKid**
 
 ## Top Tracks
 1. **Zombie Apocalypse** · Mortician
 2. **Fly-day Chinatown** · Yasuha
 3. **Chainsaw Dismemberment** · Mortician
 4. **Drowned in Your Blood** · Mortician
-5. **Holy, Holy** · Geordie Greep
+5. **Hammer Smashed Face** · Cannibal Corpse
 
-*Data last updated at 2026-02-12 00:00:02*
+*Data last updated at 2026-02-13 00:00:02*
