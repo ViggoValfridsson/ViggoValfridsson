@@ -13,7 +13,7 @@
 1. **Zombie Apocalypse** · Mortician
 2. **Fly-day Chinatown** · Yasuha
 3. **Chainsaw Dismemberment** · Mortician
-4. **Drowned in Your Blood** · Mortician
-5. **Hammer Smashed Face** · Cannibal Corpse
+4. **Rabid** · Mortician
+5. **Drowned in Your Blood** · Mortician
 
-*Data last updated at 2026-02-13 00:00:02*
+*Data last updated at 2026-02-14 00:00:02*
