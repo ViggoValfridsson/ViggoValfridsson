@@ -6,14 +6,14 @@
 1. **Mortician**
 2. **Masayoshi Takanaka**
 3. **CASIOPEA**
-4. **Cannibal Corpse**
-5. **EsDeeKid**
+4. **EsDeeKid**
+5. **Bolt Thrower**
 
 ## Top Tracks
 1. **Zombie Apocalypse** · Mortician
 2. **Fly-day Chinatown** · Yasuha
 3. **Chainsaw Dismemberment** · Mortician
-4. **Rabid** · Mortician
-5. **Drowned in Your Blood** · Mortician
+4. **Drowned in Your Blood** · Mortician
+5. **Rabid** · Mortician
 
-*Data last updated at 2026-02-14 00:00:02*
+*Data last updated at 2026-02-15 00:00:02*
