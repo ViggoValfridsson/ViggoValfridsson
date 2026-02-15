@@ -7,7 +7,7 @@
 2. **Masayoshi Takanaka**
 3. **CASIOPEA**
 4. **EsDeeKid**
-5. **Bolt Thrower**
+5. **Cannibal Corpse**
 
 ## Top Tracks
 1. **Zombie Apocalypse** · Mortician
@@ -16,4 +16,4 @@
 4. **Drowned in Your Blood** · Mortician
 5. **Rabid** · Mortician
 
-*Data last updated at 2026-02-15 00:00:02*
+*Data last updated at 2026-02-16 00:00:01*
