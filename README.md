@@ -7,13 +7,13 @@
 2. **Masayoshi Takanaka**
 3. **CASIOPEA**
 4. **EsDeeKid**
-5. **Cannibal Corpse**
+5. **Dying Fetus**
 
 ## Top Tracks
-1. **Zombie Apocalypse** · Mortician
-2. **Fly-day Chinatown** · Yasuha
+1. **Fly-day Chinatown** · Yasuha
+2. **Zombie Apocalypse** · Mortician
 3. **Rabid** · Mortician
 4. **Chainsaw Dismemberment** · Mortician
 5. **Drowned in Your Blood** · Mortician
 
-*Data last updated at 2026-02-17 00:00:02*
+*Data last updated at 2026-02-18 00:00:02*
