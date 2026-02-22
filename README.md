@@ -6,14 +6,14 @@
 1. **Masayoshi Takanaka**
 2. **Mortician**
 3. **CASIOPEA**
-4. **Bolt Thrower**
-5. **Cannibal Corpse**
+4. **Dying Fetus**
+5. **Bolt Thrower**
 
 ## Top Tracks
 1. **Fly-day Chinatown** · Yasuha
 2. **Zombie Apocalypse** · Mortician
 3. **Rabid** · Mortician
-4. **Babykiller** · Devourment
-5. **REPULSIVE IN ITS SPLENDID BEAUTY** · Crowbar
+4. **Like That** · Future, Metro Boomin, Kendrick Lamar
+5. **Opening Move** · Gryphon
 
-*Data last updated at 2026-02-22 00:00:02*
+*Data last updated at 2026-02-23 00:00:02*
