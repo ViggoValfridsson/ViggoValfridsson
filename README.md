@@ -5,8 +5,8 @@
 ## Top Artists
 1. **Masayoshi Takanaka**
 2. **Mortician**
-3. **CASIOPEA**
-4. **Dying Fetus**
+3. **Dying Fetus**
+4. **CASIOPEA**
 5. **Bolt Thrower**
 
 ## Top Tracks
@@ -16,4 +16,4 @@
 4. **Like That** · Future, Metro Boomin, Kendrick Lamar
 5. **Opening Move** · Gryphon
 
-*Data last updated at 2026-02-25 00:00:02*
+*Data last updated at 2026-02-26 00:00:02*
