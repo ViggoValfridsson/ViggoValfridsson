@@ -4,16 +4,16 @@
 
 ## Top Artists
 1. **Masayoshi Takanaka**
-2. **Mortician**
+2. **Rush**
 3. **Dying Fetus**
 4. **CASIOPEA**
-5. **Bolt Thrower**
+5. **Mortician**
 
 ## Top Tracks
 1. **Fly-day Chinatown** · Yasuha
 2. **Zombie Apocalypse** · Mortician
-3. **Rabid** · Mortician
-4. **Like That** · Future, Metro Boomin, Kendrick Lamar
-5. **Opening Move** · Gryphon
+3. **Like That** · Future, Metro Boomin, Kendrick Lamar
+4. **Opening Move** · Gryphon
+5. **Corporal Jigsore Quandary** · Carcass
 
-*Data last updated at 2026-02-27 00:00:02*
+*Data last updated at 2026-02-28 00:00:02*
