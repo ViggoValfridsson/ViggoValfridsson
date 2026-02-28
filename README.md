@@ -7,13 +7,13 @@
 2. **Rush**
 3. **Dying Fetus**
 4. **CASIOPEA**
-5. **Mortician**
+5. **Bolt Thrower**
 
 ## Top Tracks
 1. **Fly-day Chinatown** · Yasuha
 2. **Zombie Apocalypse** · Mortician
 3. **Like That** · Future, Metro Boomin, Kendrick Lamar
-4. **Opening Move** · Gryphon
-5. **Corporal Jigsore Quandary** · Carcass
+4. **Troops of Doom** · Sepultura
+5. **Rabid** · Mortician
 
-*Data last updated at 2026-02-28 00:00:02*
+*Data last updated at 2026-03-01 00:00:02*
