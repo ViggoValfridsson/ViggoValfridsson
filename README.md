@@ -4,16 +4,16 @@
 
 ## Top Artists
 1. **Masayoshi Takanaka**
-2. **Rush**
-3. **Dying Fetus**
-4. **CASIOPEA**
-5. **Bolt Thrower**
+2. **Dying Fetus**
+3. **Rush**
+4. **Bolt Thrower**
+5. **CASIOPEA**
 
 ## Top Tracks
 1. **Fly-day Chinatown** · Yasuha
 2. **Zombie Apocalypse** · Mortician
 3. **Like That** · Future, Metro Boomin, Kendrick Lamar
-4. **Troops of Doom** · Sepultura
-5. **Rabid** · Mortician
+4. **360** · Charli xcx
+5. **Troops of Doom** · Sepultura
 
-*Data last updated at 2026-03-01 00:00:02*
+*Data last updated at 2026-03-02 00:00:02*
