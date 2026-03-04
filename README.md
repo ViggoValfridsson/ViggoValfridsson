@@ -6,8 +6,8 @@
 1. **Masayoshi Takanaka**
 2. **Dying Fetus**
 3. **Rush**
-4. **CASIOPEA**
-5. **Bolt Thrower**
+4. **Mortician**
+5. **CASIOPEA**
 
 ## Top Tracks
 1. **Fly-day Chinatown** · Yasuha
@@ -16,4 +16,4 @@
 4. **360** · Charli xcx
 5. **Troops of Doom** · Sepultura
 
-*Data last updated at 2026-03-04 00:00:02*
+*Data last updated at 2026-03-05 00:00:01*
