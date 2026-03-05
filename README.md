@@ -4,8 +4,8 @@
 
 ## Top Artists
 1. **Masayoshi Takanaka**
-2. **Dying Fetus**
-3. **Rush**
+2. **Rush**
+3. **Dying Fetus**
 4. **Mortician**
 5. **CASIOPEA**
 
@@ -16,4 +16,4 @@
 4. **360** · Charli xcx
 5. **Troops of Doom** · Sepultura
 
-*Data last updated at 2026-03-05 00:00:01*
+*Data last updated at 2026-03-06 00:00:02*
