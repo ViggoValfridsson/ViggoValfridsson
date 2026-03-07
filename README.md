@@ -16,4 +16,4 @@
 4. **360** · Charli xcx
 5. **Troops of Doom** · Sepultura
 
-*Data last updated at 2026-03-07 00:00:02*
+*Data last updated at 2026-03-08 00:00:02*
