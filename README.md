@@ -13,7 +13,7 @@
 1. **Fly-day Chinatown** · Yasuha
 2. **Zombie Apocalypse** · Mortician
 3. **Like That** · Future, Metro Boomin, Kendrick Lamar
-4. **360** · Charli xcx
-5. **Troops of Doom** · Sepultura
+4. **Jungle Boogie** · Kool & The Gang
+5. **360** · Charli xcx
 
-*Data last updated at 2026-03-11 00:00:02*
+*Data last updated at 2026-03-12 00:00:02*
