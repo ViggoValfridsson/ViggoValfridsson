@@ -7,13 +7,13 @@
 2. **Mortician**
 3. **Rush**
 4. **Dying Fetus**
-5. **CASIOPEA**
+5. **Bolt Thrower**
 
 ## Top Tracks
-1. **Fly-day Chinatown** · Yasuha
-2. **Zombie Apocalypse** · Mortician
-3. **Like That** · Future, Metro Boomin, Kendrick Lamar
+1. **Zombie Apocalypse** · Mortician
+2. **Like That** · Future, Metro Boomin, Kendrick Lamar
+3. **Fly-day Chinatown** · Yasuha
 4. **Jungle Boogie** · Kool & The Gang
 5. **360** · Charli xcx
 
-*Data last updated at 2026-03-12 00:00:02*
+*Data last updated at 2026-03-13 00:00:02*
