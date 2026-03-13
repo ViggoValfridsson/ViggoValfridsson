@@ -4,16 +4,16 @@
 
 ## Top Artists
 1. **Masayoshi Takanaka**
-2. **Mortician**
-3. **Rush**
+2. **Rush**
+3. **Mortician**
 4. **Dying Fetus**
-5. **Bolt Thrower**
+5. **EsDeeKid**
 
 ## Top Tracks
 1. **Zombie Apocalypse** · Mortician
 2. **Like That** · Future, Metro Boomin, Kendrick Lamar
-3. **Fly-day Chinatown** · Yasuha
-4. **Jungle Boogie** · Kool & The Gang
-5. **360** · Charli xcx
+3. **Jungle Boogie** · Kool & The Gang
+4. **360** · Charli xcx
+5. **Fly-day Chinatown** · Yasuha
 
-*Data last updated at 2026-03-13 00:00:02*
+*Data last updated at 2026-03-14 00:00:01*
