@@ -6,14 +6,14 @@
 1. **Masayoshi Takanaka**
 2. **Rush**
 3. **Mortician**
-4. **Dying Fetus**
-5. **EsDeeKid**
+4. **EsDeeKid**
+5. **Bolt Thrower**
 
 ## Top Tracks
 1. **Like That** · Future, Metro Boomin, Kendrick Lamar
-2. **Zombie Apocalypse** · Mortician
-3. **Jungle Boogie** · Kool & The Gang
-4. **360** · Charli xcx
-5. **Dead as Shit** · Sanguisugabogg
+2. **Jungle Boogie** · Kool & The Gang
+3. **Zombie Apocalypse** · Mortician
+4. **Dead as Shit** · Sanguisugabogg
+5. **360** · Charli xcx
 
-*Data last updated at 2026-03-17 00:00:02*
+*Data last updated at 2026-03-18 00:00:02*
