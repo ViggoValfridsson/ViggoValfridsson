@@ -12,8 +12,8 @@
 ## Top Tracks
 1. **Like That** · Future, Metro Boomin, Kendrick Lamar
 2. **Jungle Boogie** · Kool & The Gang
-3. **Zombie Apocalypse** · Mortician
-4. **Dead as Shit** · Sanguisugabogg
-5. **360** · Charli xcx
+3. **4 Raws** · EsDeeKid
+4. **Zombie Apocalypse** · Mortician
+5. **Dead as Shit** · Sanguisugabogg
 
-*Data last updated at 2026-03-18 00:00:02*
+*Data last updated at 2026-03-19 00:00:02*
