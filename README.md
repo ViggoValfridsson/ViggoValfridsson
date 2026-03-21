@@ -5,8 +5,8 @@
 ## Top Artists
 1. **Masayoshi Takanaka**
 2. **Rush**
-3. **Mortician**
-4. **EsDeeKid**
+3. **EsDeeKid**
+4. **Mortician**
 5. **Bolt Thrower**
 
 ## Top Tracks
@@ -16,4 +16,4 @@
 4. **Dead as Shit** · Sanguisugabogg
 5. **360** · Charli xcx
 
-*Data last updated at 2026-03-21 00:00:01*
+*Data last updated at 2026-03-22 00:00:02*
