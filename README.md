@@ -10,10 +10,10 @@
 5. **Bolt Thrower**
 
 ## Top Tracks
-1. **Like That** · Future, Metro Boomin, Kendrick Lamar
-2. **Jungle Boogie** · Kool & The Gang
-3. **4 Raws** · EsDeeKid
-4. **Dead as Shit** · Sanguisugabogg
-5. **360** · Charli xcx
+1. **Jungle Boogie** · Kool & The Gang
+2. **4 Raws** · EsDeeKid
+3. **360** · Charli xcx
+4. **Like That** · Future, Metro Boomin, Kendrick Lamar
+5. **Dead as Shit** · Sanguisugabogg
 
-*Data last updated at 2026-03-22 00:00:02*
+*Data last updated at 2026-03-23 00:00:01*
