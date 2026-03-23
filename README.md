@@ -12,8 +12,8 @@
 ## Top Tracks
 1. **Jungle Boogie** · Kool & The Gang
 2. **4 Raws** · EsDeeKid
-3. **360** · Charli xcx
-4. **Like That** · Future, Metro Boomin, Kendrick Lamar
-5. **Dead as Shit** · Sanguisugabogg
+3. **Like That** · Future, Metro Boomin, Kendrick Lamar
+4. **Dead as Shit** · Sanguisugabogg
+5. **360** · Charli xcx
 
-*Data last updated at 2026-03-23 00:00:01*
+*Data last updated at 2026-03-24 00:00:02*
