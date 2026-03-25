@@ -7,13 +7,13 @@
 2. **Rush**
 3. **EsDeeKid**
 4. **Mortician**
-5. **Bolt Thrower**
+5. **Dying Fetus**
 
 ## Top Tracks
 1. **Jungle Boogie** · Kool & The Gang
 2. **4 Raws** · EsDeeKid
-3. **Like That** · Future, Metro Boomin, Kendrick Lamar
-4. **Dead as Shit** · Sanguisugabogg
-5. **360** · Charli xcx
+3. **Zombie Apocalypse** · Mortician
+4. **Like That** · Future, Metro Boomin, Kendrick Lamar
+5. **Dead as Shit** · Sanguisugabogg
 
-*Data last updated at 2026-03-25 00:00:02*
+*Data last updated at 2026-03-26 00:00:02*
