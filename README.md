@@ -6,7 +6,7 @@
 1. **Masayoshi Takanaka**
 2. **EsDeeKid**
 3. **Mortician**
-4. **Rush**
+4. **CASIOPEA**
 5. **Dying Fetus**
 
 ## Top Tracks
@@ -16,4 +16,4 @@
 4. **Like That** · Future, Metro Boomin, Kendrick Lamar
 5. **Dead as Shit** · Sanguisugabogg
 
-*Data last updated at 2026-03-27 00:00:02*
+*Data last updated at 2026-03-28 00:00:02*
