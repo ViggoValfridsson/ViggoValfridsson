@@ -6,8 +6,8 @@
 1. **Masayoshi Takanaka**
 2. **EsDeeKid**
 3. **Mortician**
-4. **CASIOPEA**
-5. **Dying Fetus**
+4. **Dying Fetus**
+5. **Cannibal Corpse**
 
 ## Top Tracks
 1. **Jungle Boogie** · Kool & The Gang
@@ -16,4 +16,4 @@
 4. **Like That** · Future, Metro Boomin, Kendrick Lamar
 5. **Dead as Shit** · Sanguisugabogg
 
-*Data last updated at 2026-03-31 00:00:02*
+*Data last updated at 2026-04-01 00:00:02*
