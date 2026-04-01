@@ -10,10 +10,10 @@
 5. **Cannibal Corpse**
 
 ## Top Tracks
-1. **Jungle Boogie** · Kool & The Gang
-2. **4 Raws** · EsDeeKid
-3. **Born To Be Wild - Single Version** · Steppenwolf
+1. **4 Raws** · EsDeeKid
+2. **Born To Be Wild - Single Version** · Steppenwolf
+3. **Jungle Boogie** · Kool & The Gang
 4. **Like That** · Future, Metro Boomin, Kendrick Lamar
-5. **Dead as Shit** · Sanguisugabogg
+5. **At Doom's Gate** · Andrey Avkhimovich
 
-*Data last updated at 2026-04-01 00:00:02*
+*Data last updated at 2026-04-02 00:00:02*
