@@ -6,8 +6,8 @@
 1. **Masayoshi Takanaka**
 2. **EsDeeKid**
 3. **Mortician**
-4. **Dying Fetus**
-5. **Cannibal Corpse**
+4. **Cannibal Corpse**
+5. **CASIOPEA**
 
 ## Top Tracks
 1. **4 Raws** · EsDeeKid
@@ -16,4 +16,4 @@
 4. **Like That** · Future, Metro Boomin, Kendrick Lamar
 5. **At Doom's Gate** · Andrey Avkhimovich
 
-*Data last updated at 2026-04-02 00:00:02*
+*Data last updated at 2026-04-03 00:00:02*
