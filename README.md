@@ -4,16 +4,16 @@
 
 ## Top Artists
 1. **Masayoshi Takanaka**
-2. **EsDeeKid**
-3. **Mortician**
+2. **Mortician**
+3. **EsDeeKid**
 4. **Cannibal Corpse**
-5. **CASIOPEA**
+5. **Frank Zappa**
 
 ## Top Tracks
-1. **4 Raws** · EsDeeKid
-2. **Born To Be Wild - Single Version** · Steppenwolf
-3. **Jungle Boogie** · Kool & The Gang
-4. **Like That** · Future, Metro Boomin, Kendrick Lamar
-5. **At Doom's Gate** · Andrey Avkhimovich
+1. **Born To Be Wild - Single Version** · Steppenwolf
+2. **4 Raws** · EsDeeKid
+3. **At Doom's Gate** · Andrey Avkhimovich
+4. **Jungle Boogie** · Kool & The Gang
+5. **Dead and Dripping** · Cryptopsy
 
-*Data last updated at 2026-04-04 00:00:02*
+*Data last updated at 2026-04-05 00:00:02*
