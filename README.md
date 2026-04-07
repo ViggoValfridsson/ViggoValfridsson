@@ -4,10 +4,10 @@
 
 ## Top Artists
 1. **Masayoshi Takanaka**
-2. **Dying Fetus**
-3. **Frank Zappa**
-4. **Cannibal Corpse**
-5. **CASIOPEA**
+2. **Rush**
+3. **Dying Fetus**
+4. **Frank Zappa**
+5. **Cannibal Corpse**
 
 ## Top Tracks
 1. **Born To Be Wild - Single Version** · Steppenwolf
@@ -16,4 +16,4 @@
 4. **At Doom's Gate** · Andrey Avkhimovich
 5. **Jungle Boogie** · Kool & The Gang
 
-*Data last updated at 2026-04-07 00:00:02*
+*Data last updated at 2026-04-08 00:00:02*
