@@ -4,8 +4,8 @@
 
 ## Top Artists
 1. **Masayoshi Takanaka**
-2. **Rush**
-3. **Dying Fetus**
+2. **Dying Fetus**
+3. **Rush**
 4. **Frank Zappa**
 5. **Cannibal Corpse**
 
@@ -14,6 +14,6 @@
 2. **4 Raws** · EsDeeKid
 3. **Out thë way** · Yeat
 4. **At Doom's Gate** · Andrey Avkhimovich
-5. **Jungle Boogie** · Kool & The Gang
+5. **Dead and Dripping** · Cryptopsy
 
-*Data last updated at 2026-04-08 00:00:02*
+*Data last updated at 2026-04-09 00:00:02*
