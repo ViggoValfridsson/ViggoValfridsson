@@ -13,7 +13,7 @@
 1. **Born To Be Wild - Single Version** · Steppenwolf
 2. **4 Raws** · EsDeeKid
 3. **Out thë way** · Yeat
-4. **At Doom's Gate** · Andrey Avkhimovich
-5. **Dead and Dripping** · Cryptopsy
+4. **Dead and Dripping** · Cryptopsy
+5. **At Doom's Gate** · Andrey Avkhimovich
 
-*Data last updated at 2026-04-11 00:00:02*
+*Data last updated at 2026-04-12 00:00:01*
