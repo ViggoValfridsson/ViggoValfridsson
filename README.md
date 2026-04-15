@@ -5,15 +5,15 @@
 ## Top Artists
 1. **Dying Fetus**
 2. **Masayoshi Takanaka**
-3. **Rush**
-4. **Frank Zappa**
-5. **Steppenwolf**
+3. **Death**
+4. **Rush**
+5. **Morbid Angel**
 
 ## Top Tracks
 1. **Born To Be Wild - Single Version** · Steppenwolf
 2. **Out thë way** · Yeat
 3. **Dead and Dripping** · Cryptopsy
 4. **At Doom's Gate** · Andrey Avkhimovich
-5. **4 Raws** · EsDeeKid
+5. **Agent Orange** · Sodom
 
-*Data last updated at 2026-04-15 00:00:01*
+*Data last updated at 2026-04-16 00:00:02*
