@@ -14,6 +14,6 @@
 2. **Out thë way** · Yeat
 3. **Dead and Dripping** · Cryptopsy
 4. **At Doom's Gate** · Andrey Avkhimovich
-5. **Punkrocker (feat. Iggy Pop) - As featured in Superman** · Teddybears, Iggy Pop
+5. **Agent Orange** · Sodom
 
-*Data last updated at 2026-04-17 00:00:02*
+*Data last updated at 2026-04-18 00:00:02*
