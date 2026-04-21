@@ -4,8 +4,8 @@
 
 ## Top Artists
 1. **Death**
-2. **Bad Brains**
-3. **Masayoshi Takanaka**
+2. **Masayoshi Takanaka**
+3. **Bad Brains**
 4. **Dying Fetus**
 5. **Rush**
 
@@ -16,4 +16,4 @@
 4. **Dead and Dripping** · Cryptopsy
 5. **Left to Die** · Death
 
-*Data last updated at 2026-04-21 00:00:02*
+*Data last updated at 2026-04-22 00:00:01*
