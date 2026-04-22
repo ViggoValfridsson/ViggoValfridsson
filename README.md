@@ -4,10 +4,10 @@
 
 ## Top Artists
 1. **Death**
-2. **Masayoshi Takanaka**
-3. **Bad Brains**
+2. **Bad Brains**
+3. **Rush**
 4. **Dying Fetus**
-5. **Rush**
+5. **Frank Zappa**
 
 ## Top Tracks
 1. **Born To Be Wild - Single Version** · Steppenwolf
@@ -16,4 +16,4 @@
 4. **Dead and Dripping** · Cryptopsy
 5. **Left to Die** · Death
 
-*Data last updated at 2026-04-22 00:00:01*
+*Data last updated at 2026-04-23 00:00:02*
