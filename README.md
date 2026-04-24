@@ -5,8 +5,8 @@
 ## Top Artists
 1. **Death**
 2. **Bad Brains**
-3. **Dying Fetus**
-4. **Rush**
+3. **Rush**
+4. **Dying Fetus**
 5. **Frank Zappa**
 
 ## Top Tracks
@@ -16,4 +16,4 @@
 4. **Left to Die** · Death
 5. **Immortal Rites** · Morbid Angel
 
-*Data last updated at 2026-04-24 00:00:02*
+*Data last updated at 2026-04-25 00:00:02*
