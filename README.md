@@ -13,7 +13,7 @@
 1. **Out thë way** · Yeat
 2. **Born To Be Wild - Single Version** · Steppenwolf
 3. **Punkrocker (feat. Iggy Pop) - As featured in Superman** · Teddybears, Iggy Pop
-4. **Left to Die** · Death
-5. **Immortal Rites** · Morbid Angel
+4. **Immortal Rites** · Morbid Angel
+5. **Left to Die** · Death
 
-*Data last updated at 2026-04-27 00:00:02*
+*Data last updated at 2026-04-28 00:00:02*
