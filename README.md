@@ -11,9 +11,9 @@
 
 ## Top Tracks
 1. **Out thë way** · Yeat
-2. **Born To Be Wild - Single Version** · Steppenwolf
-3. **Punkrocker (feat. Iggy Pop) - As featured in Superman** · Teddybears, Iggy Pop
-4. **Immortal Rites** · Morbid Angel
-5. **Left to Die** · Death
+2. **Punkrocker (feat. Iggy Pop) - As featured in Superman** · Teddybears, Iggy Pop
+3. **Immortal Rites** · Morbid Angel
+4. **Left to Die** · Death
+5. **Dead and Dripping** · Cryptopsy
 
-*Data last updated at 2026-04-29 00:00:02*
+*Data last updated at 2026-04-30 00:00:01*
