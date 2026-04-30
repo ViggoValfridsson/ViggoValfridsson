@@ -6,8 +6,8 @@
 1. **Death**
 2. **Bad Brains**
 3. **Rush**
-4. **Dying Fetus**
-5. **Frank Zappa**
+4. **Frank Zappa**
+5. **Dying Fetus**
 
 ## Top Tracks
 1. **Out thë way** · Yeat
@@ -16,4 +16,4 @@
 4. **Left to Die** · Death
 5. **Dead and Dripping** · Cryptopsy
 
-*Data last updated at 2026-04-30 00:00:01*
+*Data last updated at 2026-05-01 00:00:02*
