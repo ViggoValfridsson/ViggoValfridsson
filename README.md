@@ -10,10 +10,10 @@
 5. **Morbid Angel**
 
 ## Top Tracks
-1. **Out thë way** · Yeat
-2. **Punkrocker (feat. Iggy Pop) - As featured in Superman** · Teddybears, Iggy Pop
-3. **Immortal Rites** · Morbid Angel
-4. **Left to Die** · Death
-5. **Dead and Dripping** · Cryptopsy
+1. **Punkrocker (feat. Iggy Pop) - As featured in Superman** · Teddybears, Iggy Pop
+2. **Immortal Rites** · Morbid Angel
+3. **Left to Die** · Death
+4. **Out thë way** · Yeat
+5. **Sailin' On** · Bad Brains
 
-*Data last updated at 2026-05-02 00:00:02*
+*Data last updated at 2026-05-03 00:00:02*
