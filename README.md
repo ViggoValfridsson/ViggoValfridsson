@@ -13,7 +13,7 @@
 1. **Punkrocker (feat. Iggy Pop) - As featured in Superman** · Teddybears, Iggy Pop
 2. **Immortal Rites** · Morbid Angel
 3. **Left to Die** · Death
-4. **Out thë way** · Yeat
-5. **Sailin' On** · Bad Brains
+4. **Sailin' On** · Bad Brains
+5. **Corporal Jigsore Quandary** · Carcass
 
-*Data last updated at 2026-05-03 00:00:02*
+*Data last updated at 2026-05-04 00:00:02*
