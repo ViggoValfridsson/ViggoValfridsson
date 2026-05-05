@@ -5,9 +5,9 @@
 ## Top Artists
 1. **Death**
 2. **Bad Brains**
-3. **Rush**
-4. **Dying Fetus**
-5. **Morbid Angel**
+3. **Dying Fetus**
+4. **Morbid Angel**
+5. **Masayoshi Takanaka**
 
 ## Top Tracks
 1. **Punkrocker (feat. Iggy Pop) - As featured in Superman** · Teddybears, Iggy Pop
@@ -16,4 +16,4 @@
 4. **Sailin' On** · Bad Brains
 5. **Corporal Jigsore Quandary** · Carcass
 
-*Data last updated at 2026-05-05 00:00:01*
+*Data last updated at 2026-05-06 00:00:02*
