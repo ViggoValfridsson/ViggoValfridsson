@@ -5,15 +5,15 @@
 ## Top Artists
 1. **Death**
 2. **Masayoshi Takanaka**
-3. **Bad Brains**
-4. **Tyler, The Creator**
+3. **Tyler, The Creator**
+4. **Bad Brains**
 5. **Morbid Angel**
 
 ## Top Tracks
 1. **Immortal Rites** · Morbid Angel
-2. **Sailin' On** · Bad Brains
-3. **Punkrocker (feat. Iggy Pop) - As featured in Superman** · Teddybears, Iggy Pop
-4. **Left to Die** · Death
+2. **Punkrocker (feat. Iggy Pop) - As featured in Superman** · Teddybears, Iggy Pop
+3. **Left to Die** · Death
+4. **Sailin' On** · Bad Brains
 5. **For Victory** · Bolt Thrower
 
-*Data last updated at 2026-05-11 00:00:02*
+*Data last updated at 2026-05-12 00:00:02*
