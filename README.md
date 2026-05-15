@@ -7,13 +7,13 @@
 2. **Tyler, The Creator**
 3. **Bad Brains**
 4. **Death**
-5. **Morbid Angel**
+5. **Slayer**
 
 ## Top Tracks
-1. **Punkrocker (feat. Iggy Pop) - As featured in Superman** · Teddybears, Iggy Pop
+1. **REPULSIVE IN ITS SPLENDID BEAUTY** · Crowbar
 2. **Sailin' On** · Bad Brains
-3. **For Victory** · Bolt Thrower
-4. **Immortal Rites** · Morbid Angel
-5. **IGOR'S THEME** · Tyler, The Creator
+3. **Immortal Rites** · Morbid Angel
+4. **IGOR'S THEME** · Tyler, The Creator
+5. **Pay to Cum** · Bad Brains
 
-*Data last updated at 2026-05-15 00:00:02*
+*Data last updated at 2026-05-16 00:00:02*
