@@ -5,15 +5,15 @@
 ## Top Artists
 1. **Masayoshi Takanaka**
 2. **Tyler, The Creator**
-3. **Death**
-4. **Slayer**
-5. **Bad Brains**
+3. **Slayer**
+4. **Charli xcx**
+5. **Morbid Angel**
 
 ## Top Tracks
 1. **REPULSIVE IN ITS SPLENDID BEAUTY** · Crowbar
 2. **IGOR'S THEME** · Tyler, The Creator
-3. **Pay to Cum** · Bad Brains
-4. **Leprosy** · Death
-5. **Left to Die** · Death
+3. **Leprosy** · Death
+4. **Diabolical Ceremonies** · Inverted
+5. **READY TO FLY** · Masayoshi Takanaka
 
-*Data last updated at 2026-05-17 00:00:02*
+*Data last updated at 2026-05-18 00:00:02*
