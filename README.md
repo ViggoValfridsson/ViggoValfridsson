@@ -5,9 +5,9 @@
 ## Top Artists
 1. **Tyler, The Creator**
 2. **Masayoshi Takanaka**
-3. **Slayer**
-4. **Haruomi Hosono**
-5. **Morbid Angel**
+3. **Haruomi Hosono**
+4. **Charli xcx**
+5. **MF DOOM**
 
 ## Top Tracks
 1. **REPULSIVE IN ITS SPLENDID BEAUTY** · Crowbar
@@ -16,4 +16,4 @@
 4. **IGOR'S THEME** · Tyler, The Creator
 5. **Existense Is Punishment** · Crowbar
 
-*Data last updated at 2026-05-22 00:00:02*
+*Data last updated at 2026-05-23 00:00:02*
