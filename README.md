@@ -6,7 +6,7 @@
 1. **Tyler, The Creator**
 2. **Masayoshi Takanaka**
 3. **Haruomi Hosono**
-4. **Charli xcx**
+4. **Pestilence**
 5. **MF DOOM**
 
 ## Top Tracks
@@ -16,4 +16,4 @@
 4. **IGOR'S THEME** · Tyler, The Creator
 5. **Existense Is Punishment** · Crowbar
 
-*Data last updated at 2026-05-26 00:00:02*
+*Data last updated at 2026-05-27 00:00:02*
