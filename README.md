@@ -12,8 +12,8 @@
 ## Top Tracks
 1. **REPULSIVE IN ITS SPLENDID BEAUTY** · Crowbar
 2. **Corporal Jigsore Quandary** · Carcass
-3. **Diabolical Ceremonies** · Inverted
+3. **Existense Is Punishment** · Crowbar
 4. **IGOR'S THEME** · Tyler, The Creator
-5. **Existense Is Punishment** · Crowbar
+5. **OH! TENGO SUERTE** · Masayoshi Takanaka
 
-*Data last updated at 2026-05-28 00:00:02*
+*Data last updated at 2026-05-29 00:00:02*
