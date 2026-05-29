@@ -5,15 +5,15 @@
 ## Top Artists
 1. **Tyler, The Creator**
 2. **Masayoshi Takanaka**
-3. **Haruomi Hosono**
-4. **Pestilence**
+3. **Pestilence**
+4. **Haruomi Hosono**
 5. **MF DOOM**
 
 ## Top Tracks
 1. **REPULSIVE IN ITS SPLENDID BEAUTY** · Crowbar
 2. **Corporal Jigsore Quandary** · Carcass
-3. **Existense Is Punishment** · Crowbar
-4. **IGOR'S THEME** · Tyler, The Creator
-5. **OH! TENGO SUERTE** · Masayoshi Takanaka
+3. **Dehydrated** · Pestilence
+4. **Existense Is Punishment** · Crowbar
+5. **IGOR'S THEME** · Tyler, The Creator
 
-*Data last updated at 2026-05-29 00:00:02*
+*Data last updated at 2026-05-30 00:00:02*
