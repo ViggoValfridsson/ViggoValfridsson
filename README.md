@@ -12,8 +12,8 @@
 ## Top Tracks
 1. **REPULSIVE IN ITS SPLENDID BEAUTY** · Crowbar
 2. **Corporal Jigsore Quandary** · Carcass
-3. **Dehydrated** · Pestilence
-4. **Out of the Body** · Pestilence
-5. **Existense Is Punishment** · Crowbar
+3. **OH! TENGO SUERTE** · Masayoshi Takanaka
+4. **Dehydrated** · Pestilence
+5. **Out of the Body** · Pestilence
 
-*Data last updated at 2026-06-04 00:00:02*
+*Data last updated at 2026-06-05 00:00:02*
