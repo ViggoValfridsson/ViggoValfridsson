@@ -11,9 +11,9 @@
 
 ## Top Tracks
 1. **REPULSIVE IN ITS SPLENDID BEAUTY** · Crowbar
-2. **Corporal Jigsore Quandary** · Carcass
-3. **OH! TENGO SUERTE** · Masayoshi Takanaka
+2. **OH! TENGO SUERTE** · Masayoshi Takanaka
+3. **Corporal Jigsore Quandary** · Carcass
 4. **Dehydrated** · Pestilence
 5. **Out of the Body** · Pestilence
 
-*Data last updated at 2026-06-05 00:00:02*
+*Data last updated at 2026-06-06 00:00:02*
