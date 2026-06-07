@@ -4,16 +4,16 @@
 
 ## Top Artists
 1. **Masayoshi Takanaka**
-2. **Tyler, The Creator**
-3. **Pestilence**
-4. **Haruomi Hosono**
-5. **Talking Heads**
+2. **Pestilence**
+3. **Haruomi Hosono**
+4. **Talking Heads**
+5. **Earl Sweatshirt**
 
 ## Top Tracks
 1. **REPULSIVE IN ITS SPLENDID BEAUTY** · Crowbar
-2. **OH! TENGO SUERTE** · Masayoshi Takanaka
-3. **Corporal Jigsore Quandary** · Carcass
-4. **Dehydrated** · Pestilence
-5. **Out of the Body** · Pestilence
+2. **Corporal Jigsore Quandary** · Carcass
+3. **Dehydrated** · Pestilence
+4. **Out of the Body** · Pestilence
+5. **OH! TENGO SUERTE** · Masayoshi Takanaka
 
-*Data last updated at 2026-06-07 00:00:02*
+*Data last updated at 2026-06-08 00:00:02*
