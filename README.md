@@ -10,10 +10,10 @@
 5. **Earl Sweatshirt**
 
 ## Top Tracks
-1. **REPULSIVE IN ITS SPLENDID BEAUTY** · Crowbar
-2. **Corporal Jigsore Quandary** · Carcass
-3. **Dehydrated** · Pestilence
-4. **Out of the Body** · Pestilence
+1. **Corporal Jigsore Quandary** · Carcass
+2. **Dehydrated** · Pestilence
+3. **Out of the Body** · Pestilence
+4. **REPULSIVE IN ITS SPLENDID BEAUTY** · Crowbar
 5. **OH! TENGO SUERTE** · Masayoshi Takanaka
 
-*Data last updated at 2026-06-12 00:00:02*
+*Data last updated at 2026-06-13 00:00:02*
