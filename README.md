@@ -13,7 +13,7 @@
 1. **Dehydrated** · Pestilence
 2. **Out of the Body** · Pestilence
 3. **OH! TENGO SUERTE** · Masayoshi Takanaka
-4. **REPULSIVE IN ITS SPLENDID BEAUTY** · Crowbar
-5. **Once in a Lifetime - 2005 Remaster** · Talking Heads
+4. **Once in a Lifetime - 2005 Remaster** · Talking Heads
+5. **Graves of the Fathers** · Cryptopsy
 
-*Data last updated at 2026-06-16 00:00:02*
+*Data last updated at 2026-06-17 00:00:02*
