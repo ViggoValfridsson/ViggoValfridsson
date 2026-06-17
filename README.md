@@ -5,9 +5,9 @@
 ## Top Artists
 1. **Masayoshi Takanaka**
 2. **Pestilence**
-3. **Haruomi Hosono**
-4. **Talking Heads**
-5. **Earl Sweatshirt**
+3. **Talking Heads**
+4. **Earl Sweatshirt**
+5. **Bolt Thrower**
 
 ## Top Tracks
 1. **Dehydrated** · Pestilence
@@ -16,4 +16,4 @@
 4. **Once in a Lifetime - 2005 Remaster** · Talking Heads
 5. **Graves of the Fathers** · Cryptopsy
 
-*Data last updated at 2026-06-17 00:00:02*
+*Data last updated at 2026-06-18 00:00:02*
