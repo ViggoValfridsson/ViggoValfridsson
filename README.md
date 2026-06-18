@@ -14,6 +14,6 @@
 2. **Out of the Body** · Pestilence
 3. **OH! TENGO SUERTE** · Masayoshi Takanaka
 4. **Once in a Lifetime - 2005 Remaster** · Talking Heads
-5. **Graves of the Fathers** · Cryptopsy
+5. **Infecting the Crypts** · Suffocation
 
-*Data last updated at 2026-06-18 00:00:02*
+*Data last updated at 2026-06-19 00:00:02*
