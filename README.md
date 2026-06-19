@@ -7,13 +7,13 @@
 2. **Pestilence**
 3. **Talking Heads**
 4. **Earl Sweatshirt**
-5. **Bolt Thrower**
+5. **Frank Zappa**
 
 ## Top Tracks
 1. **Dehydrated** · Pestilence
 2. **Out of the Body** · Pestilence
 3. **OH! TENGO SUERTE** · Masayoshi Takanaka
-4. **Once in a Lifetime - 2005 Remaster** · Talking Heads
-5. **Infecting the Crypts** · Suffocation
+4. **Slowly We Rot** · Obituary
+5. **Once in a Lifetime - 2005 Remaster** · Talking Heads
 
-*Data last updated at 2026-06-19 00:00:02*
+*Data last updated at 2026-06-20 00:00:01*
