@@ -5,9 +5,9 @@
 ## Top Artists
 1. **Masayoshi Takanaka**
 2. **Pestilence**
-3. **Talking Heads**
-4. **Earl Sweatshirt**
-5. **Frank Zappa**
+3. **Rush**
+4. **Talking Heads**
+5. **Earl Sweatshirt**
 
 ## Top Tracks
 1. **Dehydrated** · Pestilence
@@ -16,4 +16,4 @@
 4. **Slowly We Rot** · Obituary
 5. **Once in a Lifetime - 2005 Remaster** · Talking Heads
 
-*Data last updated at 2026-06-20 00:00:01*
+*Data last updated at 2026-06-21 00:00:02*
