@@ -11,9 +11,9 @@
 
 ## Top Tracks
 1. **Dehydrated** · Pestilence
-2. **Out of the Body** · Pestilence
-3. **OH! TENGO SUERTE** · Masayoshi Takanaka
-4. **Slowly We Rot** · Obituary
-5. **Rasputin - Single Version** · Boney M.
+2. **OH! TENGO SUERTE** · Masayoshi Takanaka
+3. **Slowly We Rot** · Obituary
+4. **Rasputin - Single Version** · Boney M.
+5. **Praise the Lord (Opium of the Masses)** · Dying Fetus
 
-*Data last updated at 2026-06-23 00:00:02*
+*Data last updated at 2026-06-24 00:00:02*
