@@ -4,16 +4,16 @@
 
 ## Top Artists
 1. **Masayoshi Takanaka**
-2. **Pestilence**
-3. **Rush**
-4. **Talking Heads**
-5. **Earl Sweatshirt**
+2. **Three 6 Mafia**
+3. **Pestilence**
+4. **Rush**
+5. **Talking Heads**
 
 ## Top Tracks
-1. **Dehydrated** · Pestilence
-2. **OH! TENGO SUERTE** · Masayoshi Takanaka
-3. **Kill the Poor** · Dead Kennedys
-4. **Slowly We Rot** · Obituary
-5. **Rasputin - Single Version** · Boney M.
+1. **Stay Fly** · Three 6 Mafia
+2. **Dehydrated** · Pestilence
+3. **OH! TENGO SUERTE** · Masayoshi Takanaka
+4. **Kill the Poor** · Dead Kennedys
+5. **Slob On My Nob** · Tear Da Club Up Thugs, Three 6 Mafia
 
-*Data last updated at 2026-06-25 00:00:02*
+*Data last updated at 2026-06-26 00:00:02*
