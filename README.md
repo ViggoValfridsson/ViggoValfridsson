@@ -5,15 +5,15 @@
 ## Top Artists
 1. **Masayoshi Takanaka**
 2. **Three 6 Mafia**
-3. **Pestilence**
-4. **Rush**
-5. **Talking Heads**
+3. **Rush**
+4. **Kanye West**
+5. **Frank Zappa**
 
 ## Top Tracks
 1. **Stay Fly** · Three 6 Mafia
-2. **Dehydrated** · Pestilence
+2. **Half On a Sack** · Three 6 Mafia
 3. **OH! TENGO SUERTE** · Masayoshi Takanaka
 4. **Kill the Poor** · Dead Kennedys
 5. **Slob On My Nob** · Tear Da Club Up Thugs, Three 6 Mafia
 
-*Data last updated at 2026-06-26 00:00:02*
+*Data last updated at 2026-06-27 00:00:03*
