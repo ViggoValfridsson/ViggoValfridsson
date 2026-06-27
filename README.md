@@ -6,8 +6,8 @@
 1. **Masayoshi Takanaka**
 2. **Three 6 Mafia**
 3. **Rush**
-4. **Kanye West**
-5. **Frank Zappa**
+4. **Frank Zappa**
+5. **Talking Heads**
 
 ## Top Tracks
 1. **Stay Fly** · Three 6 Mafia
@@ -16,4 +16,4 @@
 4. **Kill the Poor** · Dead Kennedys
 5. **Slob On My Nob** · Tear Da Club Up Thugs, Three 6 Mafia
 
-*Data last updated at 2026-06-27 00:00:03*
+*Data last updated at 2026-06-28 00:00:02*
