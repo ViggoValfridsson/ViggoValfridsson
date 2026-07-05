@@ -7,7 +7,7 @@
 2. **Phoebe Bridgers**
 3. **Masayoshi Takanaka**
 4. **Rush**
-5. **Frank Zappa**
+5. **Morbid Angel**
 
 ## Top Tracks
 1. **Stay Fly** · Three 6 Mafia
@@ -16,4 +16,4 @@
 4. **Muffin Man** · Frank Zappa, Captain Beefheart, The Mothers
 5. **Poppin' My Collar (feat. Project Pat)** · Three 6 Mafia, Project Pat
 
-*Data last updated at 2026-07-05 00:00:02*
+*Data last updated at 2026-07-06 00:00:02*
