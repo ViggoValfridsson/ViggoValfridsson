@@ -6,8 +6,8 @@
 1. **Three 6 Mafia**
 2. **Phoebe Bridgers**
 3. **Masayoshi Takanaka**
-4. **Rush**
-5. **Morbid Angel**
+4. **Morbid Angel**
+5. **Frank Zappa**
 
 ## Top Tracks
 1. **Kill the Poor** · Dead Kennedys
@@ -16,4 +16,4 @@
 4. **Muffin Man** · Frank Zappa, Captain Beefheart, The Mothers
 5. **Poppin' My Collar (feat. Project Pat)** · Three 6 Mafia, Project Pat
 
-*Data last updated at 2026-07-07 00:00:02*
+*Data last updated at 2026-07-08 00:00:02*
