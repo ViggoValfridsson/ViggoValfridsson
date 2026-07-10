@@ -4,8 +4,8 @@
 
 ## Top Artists
 1. **Three 6 Mafia**
-2. **Phoebe Bridgers**
-3. **Masayoshi Takanaka**
+2. **Masayoshi Takanaka**
+3. **Phoebe Bridgers**
 4. **Morbid Angel**
 5. **Frank Zappa**
 
@@ -16,4 +16,4 @@
 4. **Muffin Man** · Frank Zappa, Captain Beefheart, The Mothers
 5. **Poppin' My Collar (feat. Project Pat)** · Three 6 Mafia, Project Pat
 
-*Data last updated at 2026-07-10 00:00:03*
+*Data last updated at 2026-07-11 00:00:02*
